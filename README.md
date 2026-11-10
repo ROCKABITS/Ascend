@@ -8,7 +8,7 @@ prova que as fez e ganha XP para subir de nível.
 
 Design: ficheiro Figma "Ascend".
 
-## Âmbito da versão 1 (ver documento A02)
+## Âmbito da versão 1
 
 Incluído:
 - Lista de quests e detalhe da quest
